@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Projects\\Sortify\\Sortify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4B9B67-A560-41DE-9778-A564D7361F53}|Sortify.Client\\Sortify.Client.csproj|c:\\git projects\\sortify\\sortify\\sortify.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE4B9B67-A560-41DE-9778-A564D7361F53}|Sortify.Client\\Sortify.Client.csproj|solutionrelative:sortify.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4B9B67-A560-41DE-9778-A564D7361F53}|Sortify.Client\\Sortify.Client.csproj|c:\\git projects\\sortify\\sortify\\sortify.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4B9B67-A560-41DE-9778-A564D7361F53}|Sortify.Client\\Sortify.Client.csproj|solutionrelative:sortify.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|c:\\git projects\\sortify\\sortify\\sortify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|solutionrelative:sortify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Sortify.Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Sortify.Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:19:31.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Program.cs",
+              "RelativeDocumentMoniker": "Sortify\\Program.cs",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Program.cs",
+              "RelativeToolTip": "Sortify\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:19:05.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Sortify.Client\\Program.cs",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify.Client\\Program.cs",
+              "RelativeToolTip": "Sortify.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:18:58.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

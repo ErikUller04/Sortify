@@ -1,0 +1,2 @@
+C:\Git Projects\Sortify\Sortify\Sortify.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Git Projects\Sortify\Sortify\Sortify.Client\obj\Debug\net8.0\staticwebassets.build.json

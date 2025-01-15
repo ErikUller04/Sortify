@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Projects\\Sortify\\Sortify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|c:\\git projects\\sortify\\sortify\\sortify\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|solutionrelative:sortify\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|c:\\git projects\\sortify\\sortify\\sortify\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|solutionrelative:sortify\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|c:\\git projects\\sortify\\sortify\\sortify\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|solutionrelative:sortify\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4B9B67-A560-41DE-9778-A564D7361F53}|Sortify.Client\\Sortify.Client.csproj|c:\\git projects\\sortify\\sortify\\sortify.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE4B9B67-A560-41DE-9778-A564D7361F53}|Sortify.Client\\Sortify.Client.csproj|solutionrelative:sortify.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|c:\\git projects\\sortify\\sortify\\sortify\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|solutionrelative:sortify\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|c:\\git projects\\sortify\\sortify\\sortify\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|solutionrelative:sortify\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|c:\\git projects\\sortify\\sortify\\sortify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}|Sortify\\Sortify.csproj|solutionrelative:sortify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Sortify\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Sortify\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:29:40.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Sortify\\Components\\Routes.razor",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\Routes.razor",
+              "RelativeToolTip": "Sortify\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:28:32.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Sortify\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Sortify\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:28:53.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Sortify\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Sortify\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:28:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Sortify\\Components\\App.razor",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Components\\App.razor",
+              "RelativeToolTip": "Sortify\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:28:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Program.cs",
+              "RelativeDocumentMoniker": "Sortify\\Program.cs",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\Program.cs",
+              "RelativeToolTip": "Sortify\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:26:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Git Projects\\Sortify\\Sortify\\Sortify.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Sortify.Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Git Projects\\Sortify\\Sortify\\Sortify.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Sortify.Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:19:31.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

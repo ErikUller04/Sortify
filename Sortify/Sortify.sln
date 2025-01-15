@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortify", "Sortify\Sortify.csproj", "{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortify.Client", "Sortify.Client\Sortify.Client.csproj", "{AE4B9B67-A560-41DE-9778-A564D7361F53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBC9367-4FA6-450B-A1D6-5600CD8841BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4B9B67-A560-41DE-9778-A564D7361F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4B9B67-A560-41DE-9778-A564D7361F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4B9B67-A560-41DE-9778-A564D7361F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4B9B67-A560-41DE-9778-A564D7361F53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

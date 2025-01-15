@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Sortify.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sortify.2p43h8exx9.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Git Projects\\Sortify\\Sortify\\Sortify\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sortify.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sortify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Sortify.props",
+      "PackagePath": "build\\Sortify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Sortify.props",
+      "PackagePath": "buildMultiTargeting\\Sortify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Sortify.props",
+      "PackagePath": "buildTransitive\\Sortify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
